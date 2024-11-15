@@ -1,7 +1,6 @@
 #### Projet de Machine Learning    PCA
 
 
-
 age: Age of the patient (Numeric).
 sex: Gender of the patient. Values: 1 = male, 0 = female.
 cp: Chest pain type. Values: 0 = Typical angina, 1 = Atypical angina, 2 = Non-anginal pain, 3 = Asymptomatic.
