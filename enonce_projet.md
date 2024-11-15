@@ -38,13 +38,13 @@ Le model est-il en overfitting/underfitting/OK expliquer votre raisonnement ?
 Implementer votre algorithme en python basique et expliquer le pseudo code 
 Livraison sur git avec documentation, tests et README EXPLICITE qui résume votre projet et les principales commandes pour le lancer
  
-__________________________________________________________________________
+
  
 ### Présentation orale 
  
 Ci dessous les consignes de votre présentation orale. 
  
-*** Le support : Jupyter notebook ou PPT *** 
+**Le support** : Jupyter notebook ou PPT 
  
 #### Le barème indicatif : 
 
@@ -62,7 +62,7 @@ Présentation technique (10points)
 Définitions et vocabulaire précis 
 Avoir un jeu de données originale 
 Concepts techniques présenté(s) et expliqué(s) 
-Le pseudo code et compris et expliqué clairement avec un/des examples simples
+Le pseudo code est compris et expliqué clairement avec un/des examples simples
 Identification des applications et besoin métier associé au sujet 
 Perspectives d'évolutions 
 
