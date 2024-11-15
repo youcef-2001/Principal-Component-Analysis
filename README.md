@@ -1,17 +1,11 @@
-#### Projet de Machine Learning    PCA
+### Introduction au Projet Miniature de PCA en Machine Learning
 
+ Ce mini-projet se concentre sur l'application de l'**Analyse en Composantes Principales (PCA)**, une technique de réduction dimensionnelle essentielle en science des données.
 
-age: Age of the patient (Numeric).
-sex: Gender of the patient. Values: 1 = male, 0 = female.
-cp: Chest pain type. Values: 0 = Typical angina, 1 = Atypical angina, 2 = Non-anginal pain, 3 = Asymptomatic.
-trestbps: Resting Blood Pressure (in mm Hg) (Numeric).
-chol: Serum Cholesterol level (in mg/dl) (Numeric).
-fbs: Fasting blood sugar > 120 mg/dl. Values: 1 = true, 0 = false.
-restecg: Resting electrocardiographic results. Values: 0 = Normal, 1 = ST-T wave abnormality, 2 = Left ventricular hypertrophy.
-thalach: Maximum heart rate achieved (Numeric).
-exang: Exercise-induced angina. Values: 1 = yes, 0 = no.
-oldpeak: ST depression induced by exercise relative to rest (Numeric).
-slope: Slope of the peak exercise ST segment. Values: 0 = Upsloping, 1 = Flat, 2 = Downsloping.
-ca: Number of major vessels (0-3) colored by fluoroscopy. Values: 0, 1, 2, 3.
-thal: Thalassemia types. Values: 1 = Normal, 2 = Fixed defect, 3 = Reversible defect.
-target: Outcome variable (heart attack risk). Values: 1 = more chance of heart attack, 0 = less chance of heart attack.
+L'objectif principal est de comparer les performances d’un modèle de Machine Learning sur un jeu de données, dans deux configurations distinctes :  
+1. **Sans PCA** : où le modèle est entraîné sur l'ensemble complet des caractéristiques.  
+2. **Avec PCA** : où une réduction dimensionnelle est appliquée au préalable, permettant de réduire les variables tout en préservant l'essentiel de l'information.
+
+Cette comparaison permettra d’analyser l’impact de la PCA sur la complexité computationnelle, la performance prédictive et la robustesse du modèle. Ce projet représente une étape clé pour comprendre comment optimiser un pipeline de Machine Learning face aux défis de haute dimensionnalité.
+
+Ainsi, à travers cette approche, nous cherchons non seulement à approfondir nos compétences pratiques, mais également à évaluer l'équilibre entre simplification des données et précision des prédictions.
